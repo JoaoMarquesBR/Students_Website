@@ -1,0 +1,15 @@
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\bin\Debug\net6.0\ExercisesViewModels.deps.json
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\bin\Debug\net6.0\ExercisesViewModels.dll
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\bin\Debug\net6.0\ExercisesViewModels.pdb
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\bin\Debug\net6.0\ExercisesDAL.dll
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\bin\Debug\net6.0\ExercisesDAL.pdb
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\obj\Debug\net6.0\ExercisesViewModels.csproj.AssemblyReference.cache
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\obj\Debug\net6.0\ExercisesViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\obj\Debug\net6.0\ExercisesViewModels.AssemblyInfoInputs.cache
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\obj\Debug\net6.0\ExercisesViewModels.AssemblyInfo.cs
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\obj\Debug\net6.0\ExercisesViewModels.csproj.CoreCompileInputs.cache
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\obj\Debug\net6.0\ExercisesViewModels.csproj.CopyComplete
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\obj\Debug\net6.0\ExercisesViewModels.dll
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\obj\Debug\net6.0\refint\ExercisesViewModels.dll
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\obj\Debug\net6.0\ExercisesViewModels.pdb
+C:\$$Fanshawe\$$Fanshawe Fall 2022\Client Server App Dev\Info3070Exercises\ExercisesViewModels\obj\Debug\net6.0\ref\ExercisesViewModels.dll
